@@ -34,7 +34,7 @@
   (pad "08" smd rect (at 1.27 1.8425) (size 0.74 1.675) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a3c864b7-86ee-4eb9-947a-aeb52ec3d4f1))
   (pad "09" smd rect (at 2.54 -1.8425) (size 0.74 1.675) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c34bb521-a8ee-4098-934e-b198b13cecb0))
   (pad "10" smd rect (at 2.54 1.8425) (size 0.74 1.675) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 73061a07-8d31-41e9-aa2a-479c02e519f5))
-  (model "C:/Users/Neil/Desktop/avionics-batteryboard/kicad-libs/3d/FLE-105-01-G-DV-A.step"
+  (model "${KIPRJMOD}/../kicad-libs/3d/FLE-105-01-G-DV-A.step"
     (offset (xyz 0 0 0.1524))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

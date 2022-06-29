@@ -36,7 +36,7 @@
   (pad "08" thru_hole circle (at 3.175 0) (size 1.01 1.01) (drill 0.66) (layers *.Cu *.Mask) (tstamp ce9d41f5-0c81-4d9f-951a-a74c92bbdc0e))
   (pad "09" thru_hole circle (at 4.445 0) (size 1.01 1.01) (drill 0.66) (layers *.Cu *.Mask) (tstamp 81c4baf8-470b-42c9-89cf-b161972634c7))
   (pad "10" thru_hole circle (at 5.715 0) (size 1.01 1.01) (drill 0.66) (layers *.Cu *.Mask) (tstamp c10d6bc7-32f2-40eb-80ee-b22128084144))
-  (model "C:/Users/Neil/Desktop/avionics-batteryboard/kicad-libs/3d/TMS-110-01-G-S.step"
+  (model "${KIPRJMOD}/../kicad-libs/3d/TMS-110-01-G-S.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
