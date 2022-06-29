@@ -38,7 +38,7 @@
   (pad "11" smd roundrect (at -0.25 1.1) (size 0.25 1.2) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.03) (tstamp ae4373dd-2303-4d9c-8e1f-79a1184dbc49))
   (pad "11" smd roundrect (at 0.25 1.1) (size 0.25 1.2) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.03) (tstamp be7d524b-6a77-4220-b6e8-2981a181817b))
   (pad "11" smd roundrect (at 0.25 -1.1) (size 0.25 1.2) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.03) (tstamp dba6b960-7eed-4e11-99bf-19f9c2b63cfe))
-  (model "${KIPRJMOD}/kicad-libs/3d/DRC0010J.stp"
+  (model "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
