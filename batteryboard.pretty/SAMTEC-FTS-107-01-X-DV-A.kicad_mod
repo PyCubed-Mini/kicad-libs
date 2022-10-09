@@ -321,8 +321,8 @@
   (pad "12" smd rect (at 2.54 -2.0945) (size 0.74 2.665) (layers "F.Cu" "F.Paste") (tstamp cb6a9a60-fd60-4bca-9568-73026fc01092))
   (pad "13" smd rect (at 3.81 2.0955) (size 0.74 2.663) (layers "F.Cu" "F.Paste") (tstamp 4688abe4-9b6d-4c76-996b-b3e7e29e2808))
   (pad "14" smd rect (at 3.81 -2.0945) (size 0.74 2.665) (layers "F.Cu" "F.Paste") (tstamp 26603be1-d094-4b0f-90aa-e65606503718))
-  (model "C:/Users/Neil/Desktop/avionics-batteryboard/kicad-libs/3d/FLE-107-01-G-DV-A.stp"
-    (offset (xyz 0 0 0.15))
+  (model "${KIPRJMOD}/../kicad-libs/3d/FTS-107-01-L-DV-A.stp"
+    (offset (xyz 0 0 0.38))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )

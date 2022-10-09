@@ -38,7 +38,7 @@
   (pad "12" smd rect (at 2.54 1.8425) (size 0.74 1.675) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c2fae446-3416-4706-aab4-0f38d8318f87))
   (pad "13" smd rect (at 3.81 -1.8425) (size 0.74 1.675) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9e4c1dd6-b098-4fbf-8c23-5d212f62d5df))
   (pad "14" smd rect (at 3.81 1.8425) (size 0.74 1.675) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3846d8a8-9e1a-459e-a191-0c5a7a7a6676))
-  (model "${KIPRJMOD}/kicad-libs/3d/FLE-107-01-G-DV-A.stp"
+  (model "${KIPRJMOD}/../kicad-libs/3d/FLE-107-01-G-DV-A.stp"
     (offset (xyz 0 0 0.15))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
