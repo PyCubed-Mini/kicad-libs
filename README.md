@@ -1,2 +1,2 @@
 # kicad-libs
-kicad libraries for spacecraft design lab
+kicad libraries for pycubed-min
