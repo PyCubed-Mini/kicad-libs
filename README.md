@@ -1,2 +1,2 @@
 # kicad-libs
-kicad libraries for pycubed-min
+KiCad libraries for REx Lab avionics
